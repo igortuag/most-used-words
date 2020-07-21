@@ -17,8 +17,8 @@ export default {
   height: 55px;
   border-radius: 30px;
 
-  background-color: #dc143c;
-  color: #fff;
+  background-color: #ff9000;
+  color: #f4ede8;
   font-size: 1.3rem;
   font-weight: bold;
 
@@ -37,8 +37,8 @@ export default {
   width: 35px;
   border-radius: 17.5px;
 
-  background-color: #fff;
-  color: #dc143c;
+  background-color: #f4ede8;
+  color: #ff9000;
 
   font-size: 14px;
 

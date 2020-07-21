@@ -1,6 +1,6 @@
 <template>
-  <v-container fluid>
-    <v-form>
+  <v-container fluid class="displayBody">
+    <v-form class="displayForm">
       <v-file-input
         label="Selecione as Legendas"
         prepend-icon="mdi-message-text"
