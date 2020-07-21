@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar app color="#312E38" dark>
+    <v-app-bar app color="#ff9000" background="#312E38" dark>
       <v-toolbar-title>Most Used Words</v-toolbar-title>
     </v-app-bar>
     <v-content>
